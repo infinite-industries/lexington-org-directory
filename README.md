@@ -21,6 +21,9 @@ Under **Build Tab**, use *Embedded Code* widget to add the following
             <a href="https://www.artsconnectlex.org/" target="_new"
               >Infinite Industries</a>
           </p>
+          <p>
+            updates and information should be sent to kate@artsconnectlex.org
+          </p>
         </div>
       </div>
     </div>
