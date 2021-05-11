@@ -1,9 +1,12 @@
-# lexington-org-directory
-Lexington Art Orgs Directory
+# Lexington Area Arts Organizations Directory
 
-To add to Weebly 
 
-append the following to the end of MyTheme -> STYLES -> main.less
+
+## To add to Weebly 
+
+Under **Build Tab**, use *Embedded Code* widget to add the following
+
+Under **Theme Tab**, use *CodeEditor* to append the following to the end of MyTheme -> STYLES -> main.less
 
 ```
 #orglist-container {
