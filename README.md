@@ -13,9 +13,6 @@ Under **Build Tab**, use *Embedded Code* widget to add the following
         </h1>
         <div class="links-to-orgs">
           <p>
-            Project by Lexington Arts Alliance
-          </p>
-          <p>
             Compiled by <a href="https://www.artsconnectlex.org/" target="_new"
               >Arts Connect</a> 
           </p>
